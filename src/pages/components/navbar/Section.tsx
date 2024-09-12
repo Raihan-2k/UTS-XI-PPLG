@@ -17,7 +17,7 @@ function Section() {
             <input
               type="text"
               id="email"
-              className="w-full p-3 pr-10 rounded  text-slate-400  bg-slate-100  placeholder:text-slate-400 focus:outline-none  placeholder:opacity-75 focus:ring-2 focus:ring-blue-500"
+              className="w-full p-3  rounded  text-slate-400  bg-slate-100  placeholder:text-slate-400 focus:outline-none  placeholder:opacity-75 focus:ring-2 focus:ring-blue-500"
               placeholder="Enter Your Email"
               required
             />

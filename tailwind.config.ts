@@ -8,6 +8,11 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        montserratR: ['"MontserratR"', "sans-serif"],
+        montserratB: ['"MontserratB"', "sans-serif"],
+        montserratV: ['"MontserratV"', "sans-serif"], // Tambahkan nama font-mu
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
